@@ -31,10 +31,10 @@ class MyHomePage2 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("My App"),
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.pink,
       ),
       body: Container(
-      color: Colors.blue,
+      color: Colors.red,
       child:  Text("This is the App"), ),
 
     );
